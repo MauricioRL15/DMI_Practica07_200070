@@ -22,8 +22,8 @@ Fecha entrega: 25 de septiembre del 2023
 ### Imágenes de la APP
 
 <div style="text-align: center">
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/aa212d88a21ea125139d8c25a6464961dff659d2/Img1.jpg?raw=true" alt="Imagen 1" width="400" height="850"/>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/aa212d88a21ea125139d8c25a6464961dff659d2/Img2.jpg?raw=true" alt="Imagen 2" width="400" height="850"/>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/aa212d88a21ea125139d8c25a6464961dff659d2/Img4.jpg?raw=true" alt="Imagen 3" width="400" height="850"/>
-    <img src="https://github.com/MauricioRL15/Imagenes/blob/aa212d88a21ea125139d8c25a6464961dff659d2/Img3.jpg?raw=true" alt="Imagen 4" width="400" height="850"/>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/c4df2f39d6cd20ada4f56d877c51e916c2836001/P7_IMG2.jpg?raw=true" alt="Imagen 1" width="400" height="850"/>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/c4df2f39d6cd20ada4f56d877c51e916c2836001/P7_IMG1.jpg?raw=true" alt="Imagen 2" width="400" height="850"/>
+    <img src="https://github.com/MauricioRL15/Imagenes/blob/c4df2f39d6cd20ada4f56d877c51e916c2836001/P7_IMG3.jpg?raw=true" alt="Imagen 3" width="400" height="850"/>
+    
 </div>
