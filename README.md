@@ -17,7 +17,7 @@ Descripción: Es una apliacción centrada en cine. Ofrece a los usuarios una exp
 Fecha entrega: 25 de septiembre del 2023
 </div>
 
-<br><br><br>
+<br>
 
 ### Imágenes de la APP
 
